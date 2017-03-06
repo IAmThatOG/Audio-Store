@@ -1,0 +1,130 @@
+body
+{
+    padding-top: 70px;
+}
+
+.my-container
+{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.navbar-default
+{
+    background-color: rgba(151, 0, 4, 0.98);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-header a
+{
+    color: white;
+}
+
+.navbar-default .navbar-header a:hover
+{
+    color: rgba(181, 179, 1, 0.98)
+}
+
+.navbar-default .navbar-nav li a
+{
+    color: white;
+}
+
+.navbar-default .navbar-nav li a:hover
+{
+    color: rgba(181, 179, 1, 0.98);
+}
+
+.navbar-default .navbar-nav .dropdown-menu li a
+{
+    background-color: rgba(151, 0, 4, 0.98);
+    color: white;
+}
+
+.navbar-default .navbar-nav .dropdown-menu li a:hover
+{
+    background-color: rgba(181, 179, 1, 0.98);
+}
+
+.jumbotron
+{
+    margin-top: 0px;
+    /*background-color: rgba(181, 179, 1, 0.98);*/
+    /*color: white;*/
+}
+
+.signin
+{
+    margin-top: -40px;
+}
+
+.signin .jumbotron
+{
+    /*background-color: white;*/
+    margin-top: 5em;
+}
+
+.signin .page-header
+{
+    margin-top: -40px
+}
+
+.signin .jumbotron .signin-error
+{
+    font-size: 3px;
+}
+
+.thumbnail img
+{
+    max-height: 100px;
+}
+
+.price
+{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.thumbnail .description
+{
+    color: #9b959b;
+}
+
+.no-item
+{
+    margin-top: 200px;
+    margin-left: 0px;
+    padding: 0;
+    width: 100%;
+    font-family: "Old English Text MT";
+    color: #B0BEC5;
+    display: table;
+    font-weight: 100;
+
+    text-align: center;
+    vertical-align: middle;
+    font-size: 72px;
+}
+
+.footer
+{
+    background-color: rgba(151, 0, 4, 0.98);
+    color: white;
+    margin-top: 115px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 12px;
+    padding-bottom: 60px;
+}
+
+.footer a
+{
+    color: white;
+}
+
+.footer a:hover
+{
+    color: rgba(181, 179, 1, 0.98);
+}
